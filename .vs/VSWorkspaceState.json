@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Aplicattion",
+    "\\Aplicattion\\bin",
+    "\\Aplicattion\\Services\\Interfaces",
+    "\\Domain",
+    "\\Domain\\Entities",
+    "\\FilmesApi",
+    "\\FilmesApi\\Controllers"
+  ],
+  "SelectedNode": "\\FilmesApi.sln",
+  "PreviewInSolutionExplorer": false
+}
